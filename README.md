@@ -1,4 +1,7 @@
-# api documentation for  [generator-ionic-gulp (v1.5.2)](https://github.com/tmaximini/generator-ionic-gulp#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-generator-ionic-gulp.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-generator-ionic-gulp) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-generator-ionic-gulp.svg)](https://travis-ci.org/npmdoc/node-npmdoc-generator-ionic-gulp)
+# npmdoc-generator-ionic-gulp
+
+#### basic api documentation for  [generator-ionic-gulp (v1.5.2)](https://github.com/tmaximini/generator-ionic-gulp#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-generator-ionic-gulp.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-generator-ionic-gulp) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-generator-ionic-gulp.svg)](https://travis-ci.org/npmdoc/node-npmdoc-generator-ionic-gulp)
+
 #### A Yeoman generator for Ionic projects with gulp
 
 [![NPM](https://nodei.co/npm/generator-ionic-gulp.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/generator-ionic-gulp)
@@ -72,7 +75,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "1.5.2"
+    "version": "1.5.2",
+    "bin": {}
 }
 ```
 
